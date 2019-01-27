@@ -1,0 +1,7 @@
+main.exe "imagenes//potencia3.rgb" "imagenes//potencia3.rgb" "imagenes//potencia3.rgb"
+main.exe "imagenes//potencia4.rgb" "imagenes//potencia4.rgb" "imagenes//potencia4.rgb"
+main.exe "imagenes//potencia5.rgb" "imagenes//potencia5.rgb" "imagenes//potencia5.rgb"
+main.exe "imagenes//potencia6.rgb" "imagenes//potencia6.rgb" "imagenes//potencia6.rgb"
+main.exe "imagenes//potencia7.rgb" "imagenes//potencia7.rgb" "imagenes//potencia7.rgb"
+main.exe "imagenes//potencia8.rgb" "imagenes//potencia8.rgb" "imagenes//potencia8.rgb"
+main.exe "imagenes//potencia9.rgb" "imagenes//potencia9.rgb" "imagenes//potencia9.rgb"

@@ -1,0 +1,14 @@
+Para compilar primero hacer doble click en compilar.bat
+
+// Ejecutar
+main.exe "imagen1.rgb" "imagen2.rgb" "mascara.rgb"
+
+
+// Mostrar salidas por pantalla
+gm convert -size 500x500 -depth 8 salida_c.rgb win:
+gm convert -size 500x500 -depth 8 salida_asm.rgb win:
+
+
+// Volver a convertir a JPG
+gm convert -size 500x500 -depth 8 salida.rgb salida.jpg
+gm convert -size 500x500 prueba.jpg -resize 256x256 prueba1.jpg
